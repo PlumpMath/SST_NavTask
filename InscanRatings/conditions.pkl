@@ -1,0 +1,21 @@
+(lp1
+(lp2
+S'thing'
+p3
+aa(lp4
+VAnxious
+p5
+aa(lp6
+VHappy
+p7
+aa(lp8
+VSafe
+p9
+aa(lp10
+VStressed
+p11
+aa(lp12
+VEmotional arousal
+p13
+aa.
+
