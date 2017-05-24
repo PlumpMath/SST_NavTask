@@ -3,7 +3,7 @@ Panda3D / PandaEPL-based virtual navigation task
 
 This code underlies the task analyzed in https://github.com/sgagnon/SST
 
-Dependencies include Panda3D v1.8, PandaEPL, sendShock2.ino (for programming Arduino Uno shock delivery box; from github.com/thackerybrown/felix/scripts)
+The dependencies are Panda3D v1.8 and PandaEPL
 
 Note that at this time (05/23/2017), the model files on which this code depends are not shared in a remote repository. 
 
